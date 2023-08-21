@@ -12,7 +12,11 @@ interface Kepler {
  const acknowledgements = "Front End",
 
  const primarySkillset = "ALGUMAS HABILIDADES",
- const languages = ["Javascript", "Typescript", "React", "NextJS", "TailWind"],
+ const languages = ["Javascript",
+                    "Typescript",
+                    "React",
+                    "NextJS",
+                    "TailWind"],
 
 }
 ```
