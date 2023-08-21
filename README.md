@@ -33,7 +33,7 @@ object **Kepler** {
 ## Status
 
 <a href="https://github.com/KeplerFall">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanessaswerts&theme=dracula&hide_langs_below=1" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KeplerFall&theme=dracula&hide_langs_below=1" />
 </a>
 
 <a href="https://github.com/KeplerFall">
