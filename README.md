@@ -1,4 +1,6 @@
-# Fala devs 👋
+# Oie devs 👋
+
+Gosto de criar ótimos softwares e ajudar outras pessoas a fazer o mesmo.
 
 ## Mais sobre mim
 
@@ -38,16 +40,16 @@ object **Kepler** {
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=KeplerFall&show_icons=true&theme=dracula&line_height=27" alt="**SEU NOME** github stats"/>
 </a>
 
-[website]: https://codedev.ga/
-[instagram]: https://www.instagram.com/keplerfall/
-[linkedin]: https://www.linkedin.com/in/kepler-miranda-pereira-51382719a/
+[website]: https://.com/
+[twitter]: https://twitter.com/SEUTWITTER
+[youtube]: https://www.youtube.com/user/SEUYOUTUBE/
+[instagram]: https://www.instagram.com/SEUINSTAGRAM/
+[linkedin]: https://www.linkedin.com/in/SEULINKEDIN/
 
 <br>
 
 ## Rede sociais
 
 🏡 [Website][website] **|**
-🐦 [Twitter][twitter] **|**
-📺 [Youtube][youtube] **|**
 📷 [Instagram][instagram] **|**
 👔 [LinkedIn][linkedin]
