@@ -6,13 +6,13 @@ Gosto de criar ótimos softwares e ajudar outras pessoas a fazer o mesmo.
 
 <img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
 
-```kotlin
-object **Kepler** {
- val name = "Képler Miranda Pereira"
- val acknowledgements = "Front End"
+```typescript
+interface **Kepler** {
+ const name = "Képler Miranda Pereira"
+ const acknowledgements = "Front End"
 
- val primarySkillset = "ALGUMAS HABILIDADES"
- val languages = listOf("Javascript", "Typescript", "React", "NextJS", "TailWind")
+ const primarySkillset = "ALGUMAS HABILIDADES"
+ const languages = ["Javascript", "Typescript", "React", "NextJS", "TailWind"]
 
 }
 ```
