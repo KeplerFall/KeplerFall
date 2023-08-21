@@ -1,6 +1,4 @@
-# Oie devs 👋
-
-Gosto de criar ótimos softwares e ajudar outras pessoas a fazer o mesmo.
+# Fala devs 👋
 
 ## Mais sobre mim
 
@@ -41,10 +39,8 @@ object **Kepler** {
 </a>
 
 [website]: https://codedev.ga/
-[twitter]: https://twitter.com/SEUTWITTER
-[youtube]: https://www.youtube.com/user/SEUYOUTUBE/
-[instagram]: https://www.instagram.com/SEUINSTAGRAM/
-[linkedin]: https://www.linkedin.com/in/SEULINKEDIN/
+[instagram]: https://www.instagram.com/keplerfall/
+[linkedin]: https://www.linkedin.com/in/kepler-miranda-pereira-51382719a/
 
 <br>
 
